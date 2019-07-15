@@ -1,0 +1,636 @@
+{
+	"status": "OK",
+		"nombres": [
+			{
+				"_id": "5d0d35c006b06200042d0dfd",
+				"group": "ejemplos",
+				"thingtype": "nombres",
+				"thing": {
+				"nombre": "Tomas Cimolaii"
+				},
+				"dateAdded": "2019-06-21T19:53:36.985Z",
+				"__v": 0
+			},
+			{
+				"_id": "5d0e7b28cb06ed0004e6d0dd",
+				"group": "ejemplos",
+				"thingtype": "nombres",
+				"thing": {
+				"nombre": "Mer"
+				},
+				"dateAdded": "2019-06-22T19:02:00.881Z",
+				"__v": 0
+			},
+			{
+				"_id": "5d2ca767563876000422968b",
+				"group": "ejemplos",
+				"thingtype": "nombres",
+				"thing": {
+				"nombre": "qwer"
+				},
+				"dateAdded": "2019-07-15T16:18:47.091Z",
+				"__v": 0
+			},
+			{
+				"_id": "5d03acd690c8620004f8790f",
+				"group": "ejemplos",
+				"thingtype": "nombres",
+				"thing": {
+				"nombre": "RECURSO Web Unicen!!!"
+				},
+				"dateAdded": "2019-06-14T14:19:02.804Z",
+				"__v": 0
+			},
+			{
+				"_id": "5d090b87257bdf00043f9868",
+				"group": "ejemplos",
+				"thingtype": "nombres",
+				"thing": {
+				"nombre": "Hola"
+			},
+			"dateAdded": "2019-06-18T16:04:23.762Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d0bf36cc7e9d0000470e2a7",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "french"
+			},
+			"dateAdded": "2019-06-20T20:58:20.832Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d0d097c06b06200042d0abc",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "hello"
+			},
+			"dateAdded": "2019-06-21T16:44:44.158Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d0d09ce06b06200042d0abd",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "ailu"
+			},
+			"dateAdded": "2019-06-21T16:46:06.377Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d0d26cf06b06200042d0d20",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "ANA"
+			},
+			"dateAdded": "2019-06-21T18:49:51.862Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d0e7d87cb06ed0004e6d0de",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Agustin"
+			},
+			"dateAdded": "2019-06-22T19:12:07.382Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d0e8a75cb06ed0004e6d0fe",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "ale"
+			},
+			"dateAdded": "2019-06-22T20:07:17.906Z",
+			"__v": 0
+			},
+			{
+			"_id": "5cff1c98ad06c300040aecc7",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "editando el coso"
+			},
+			"dateAdded": "2019-06-11T03:14:32.048Z",
+			"__v": 0
+			},
+			{
+			"_id": "5cfff1b0bca1ea0004de0cfe",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "franco"
+			},
+			"dateAdded": "2019-06-11T18:23:44.712Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d0155787f64610004f0b6e7",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Gonzalo"
+			},
+			"dateAdded": "2019-06-12T19:41:44.096Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d01c5a6a851fc0004570189",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Desaprobé Web1 Wwwaaaaaaa!!!!!!!!!!!!!!!!!!!"
+			},
+			"dateAdded": "2019-06-13T03:40:22.536Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d02a097d9bce20004667924",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "manuel"
+			},
+			"dateAdded": "2019-06-13T19:14:31.799Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d02a540d9bce20004667949",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "poiuytre"
+			},
+			"dateAdded": "2019-06-13T19:34:24.310Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d02c594d9bce20004667a9f",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Felipe Ochandoren"
+			},
+			"dateAdded": "2019-06-13T21:52:20.105Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d02fd68d9bce20004667c80",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "nestor",
+			"carbon": "unos"
+			},
+			"dateAdded": "2019-06-14T01:50:32.167Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d030072d9bce20004667c9a",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Aprobame el cuatrimestre dottori plz :c"
+			},
+			"dateAdded": "2019-06-14T02:03:30.022Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d0302bfd9bce20004667cb0",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "DALE FUNCIONA O ME VOY A HUMANAS"
+			},
+			"dateAdded": "2019-06-14T02:13:19.329Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d03081bd9bce20004667ce8",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "ESOOO FUNCIONO AHORA APROBAME EL CUATRIMESTRE DOTTORI"
+			},
+			"dateAdded": "2019-06-14T02:36:11.673Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d031d77d9bce20004667d1e",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "editando el cosodasdasd"
+			},
+			"dateAdded": "2019-06-14T04:07:19.729Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d0d0fbf06b06200042d0ba8",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Natalia"
+			},
+			"dateAdded": "2019-06-21T17:11:27.045Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d0d18c506b06200042d0c29",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "ailu"
+			},
+			"dateAdded": "2019-06-21T17:49:57.889Z",
+			"__v": 0
+			},
+			{
+			"_id": "5cf70c662ecbc80004364fdc",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Benjasd"
+			},
+			"dateAdded": "2019-06-05T00:27:18.283Z",
+			"__v": 0
+			},
+			{
+			"_id": "5cf721de2ecbc80004364ff6",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Gonzalo"
+			},
+			"dateAdded": "2019-06-05T01:58:54.808Z",
+			"__v": 0
+			},
+			{
+			"_id": "5cf7231e2ecbc80004364ff9",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Lorena"
+			},
+			"dateAdded": "2019-06-05T02:04:14.896Z",
+			"__v": 0
+			},
+			{
+			"_id": "5cfa5b1598987d00048e3304",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Carlitos Tevez"
+			},
+			"dateAdded": "2019-06-07T12:39:49.116Z",
+			"__v": 0
+			},
+			{
+			"_id": "5cfa7f0798987d00048e3306",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Felipe"
+			},
+			"dateAdded": "2019-06-07T15:13:11.785Z",
+			"__v": 0
+			},
+			{
+			"_id": "5cfaa3f398987d00048e3314",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Julio"
+			},
+			"dateAdded": "2019-06-07T17:50:43.217Z",
+			"__v": 0
+			},
+			{
+			"_id": "5cfd7dcb4aaa8a000483fea7",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "prueba"
+			},
+			"dateAdded": "2019-06-09T21:44:43.994Z",
+			"__v": 0
+			},
+			{
+			"_id": "5cfed6b0ad06c300040aec1c",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Analia"
+			},
+			"dateAdded": "2019-06-10T22:16:16.694Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d02aa59d9bce20004667976",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "manu"
+			},
+			"dateAdded": "2019-06-13T19:56:09.145Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d02fd0fd9bce20004667c6d",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "nestor"
+			},
+			"dateAdded": "2019-06-14T01:49:03.460Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d0302bbd9bce20004667ca2",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "DALE FUNCIONA O ME VOY A HUMANAS"
+			},
+			"dateAdded": "2019-06-14T02:13:15.653Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d1034ede2821f0004ca33d9",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "editando el cosodasdasd"
+			},
+			"dateAdded": "2019-06-24T02:26:53.559Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d10fd1eb5e9e000044cd7c9",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "cristian"
+			},
+			"dateAdded": "2019-06-24T16:41:02.404Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d11238eb5e9e000044cd94b",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "pedro"
+			},
+			"dateAdded": "2019-06-24T19:25:02.733Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d113342b5e9e000044cdbae",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Diego Veloz"
+			},
+			"dateAdded": "2019-06-24T20:32:02.432Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d113349b5e9e000044cdbaf",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Dieewwfrrefer"
+			},
+			"dateAdded": "2019-06-24T20:32:09.276Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d113b16b5e9e000044cdf4d",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "lucas"
+			},
+			"dateAdded": "2019-06-24T21:05:26.984Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d13f725773ba00004bad24d",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Armando"
+			},
+			"dateAdded": "2019-06-26T22:52:21.567Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d14037c773ba00004bad331",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Jorge"
+			},
+			"dateAdded": "2019-06-26T23:45:00.369Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d15453cc9c94a000497ca55",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Nahuel"
+			},
+			"dateAdded": "2019-06-27T22:37:48.883Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d15a123c9c94a000497cf8a",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "ale"
+			},
+			"dateAdded": "2019-06-28T05:09:55.517Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2a1e9b55af9900043e7daf",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Yicardo"
+			},
+			"dateAdded": "2019-07-13T18:10:35.538Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2a50344deac30004ecdbe0",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "AS"
+			},
+			"dateAdded": "2019-07-13T21:42:12.326Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2c799c638dd8000407c27f",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Joaquina"
+			},
+			"dateAdded": "2019-07-15T13:03:24.819Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2c7ab5638dd8000407c280",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Mateo"
+			},
+			"dateAdded": "2019-07-15T13:08:05.421Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2c7b51638dd8000407c281",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Olivia"
+			},
+			"dateAdded": "2019-07-15T13:10:41.620Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2ca7a2563876000422968d",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "az"
+			},
+			"dateAdded": "2019-07-15T16:19:46.889Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2ca7cd563876000422968e",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "azasfasf"
+			},
+			"dateAdded": "2019-07-15T16:20:29.773Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2ca824563876000422968f",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "?"
+			},
+			"dateAdded": "2019-07-15T16:21:56.203Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2ca84e5638760004229690",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "?99"
+			},
+			"dateAdded": "2019-07-15T16:22:38.632Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2ca8935638760004229691",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "df"
+			},
+			"dateAdded": "2019-07-15T16:23:47.844Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2ca8f55638760004229693",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "3"
+			},
+			"dateAdded": "2019-07-15T16:25:25.469Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2ca91c5638760004229694",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "6"
+			},
+			"dateAdded": "2019-07-15T16:26:04.126Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2cadab5638760004229695",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Danielito"
+			},
+			"dateAdded": "2019-07-15T16:45:31.121Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2cd07656387600042296a5",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "estebanQQQ"
+			},
+			"dateAdded": "2019-07-15T19:13:58.464Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2cdc4756387600042296b6",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Ezequiel"
+			},
+			"dateAdded": "2019-07-15T20:04:23.620Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2cdcd056387600042296b9",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Adolfo"
+			},
+			"dateAdded": "2019-07-15T20:06:40.484Z",
+			"__v": 0
+			},
+			{
+			"_id": "5d2cdcdb56387600042296ba",
+			"group": "ejemplos",
+			"thingtype": "nombres",
+			"thing": {
+			"nombre": "Domingo"
+			},
+			"dateAdded": "2019-07-15T20:06:51.548Z",
+			"__v": 0
+			}
+			]
+}
